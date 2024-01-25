@@ -1,4 +1,4 @@
-#  Google Map to Unity3D
+#  Google Maps to Unity3D
 
 This Unity3D project allows you to create cube maps using Google Maps. To get started, you'll need to provide a valid API key.
 
